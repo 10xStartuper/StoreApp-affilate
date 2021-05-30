@@ -1,2 +1,3 @@
 # StoreApp-affilate
-This application help people to create website to sell products integrated with telegram bot.
+This application helps people to create a website to sell products integrated with a telegram bot.
+
