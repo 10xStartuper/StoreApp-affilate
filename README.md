@@ -3,4 +3,4 @@ This application helps people to create a website to sell products integrated wi
 
 <img src="https://raw.githubusercontent.com/MrAbdurakhimov/StoreApp-affilate/main/public/img/banner.png" />
 
-<a href="https://patreon.com/mrabdurakhimov"><img src="https://img.shields.io/badge/Patreons-1000%2B-orange" /></a>
+<a href="https://repository-images.githubusercontent.com/372288119/3bf87980-c1a0-11eb-90e7-ae7a1353310d" /></a>
